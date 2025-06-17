@@ -1,0 +1,26 @@
+.card-set {
+  text-align: center;
+  margin-top: 40px;
+}
+
+.flashcard {
+  width: 300px;
+  margin: 20px auto;
+  padding: 30px;
+  border: 2px solid #333;
+  border-radius: 10px;
+  cursor: pointer;
+  font-size: 1.2rem;
+  background-color: #f0f0f0;
+  transition: transform 0.2s;
+}
+
+.flashcard:hover {
+  transform: scale(1.05);
+}
+
+button {
+  padding: 10px 20px;
+  font-size: 1rem;
+  margin-top: 10px;
+}
