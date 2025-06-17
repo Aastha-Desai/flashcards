@@ -41,7 +41,7 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='blob:https://giphy.com/941a5773-1f31-4d03-a6fa-7154579fe541' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://i.ibb.co/QFY65s5Q/Screen-Recording-2025-06-17-at-11-25-48-AM.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
